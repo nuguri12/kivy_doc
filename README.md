@@ -1,3 +1,1 @@
-#Kivy_doc project
-
-## git practice
+# kivy_doc
